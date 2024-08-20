@@ -1,3 +1,6 @@
+This app is an AI Customer Service Support Application. I am using the OpenAPI LLM to generate intelligent responses to the text. 
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
